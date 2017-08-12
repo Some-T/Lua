@@ -6,7 +6,8 @@ io.write "How many slices/pieces per pizza are there? "
 slicesAmount = io.read()
 io.write (peopleAmount, " people with ", pizzasAmount, " pizzas \n")
 totalSlices = pizzasAmount * slicesAmount
-io.write ("There are ", totalSlices, " pieces of pizza in total. \n")
-io.write ("Each person gets ", (totalSlices / peopleAmount), " pieces of pizza. \n")
--- io.write ("There are ",)
--- https://bnewing.github.io/JavaScript-57-Exercises-for-Programmers/Tasks/Task8/task8.html
+io.write ("There are ", totalSlices, " slices/pieces of pizza in total. \n")
+slicesShared = math.floor(totalSlices / peopleAmount)
+io.write ("Each person gets ", (slicesShared), " slices/pieces of pizza. \n")
+io.write ("There are ", totalSlices - (slicesShared * peopleAmount), " slices/pieces of pizza left. \n")
+io.write(totalSlices % slicesShared)
