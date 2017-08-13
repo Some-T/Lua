@@ -18,6 +18,10 @@ subTotalCalc2 = priceItemTwo * quantityItemTwo
 subTotalCalc3 = priceItemThree * quantityItemThree
 
 subTotalCalcOverall = subTotalCalc1 + subTotalCalc2 + subTotalCalc3
+io.write ("Subtotal: $",string.format("%.2f", subTotalCalcOverall), "\n")
 
+percentageVar = (subTotalCalcOverall * 5.5 / 100)
+io.write("Tax: $", string.format("%.2f", percentageVar), "\n")
 
-io.write ("Subtotal: $",subTotalCalcOverall) -- How to display as float even when .00 is zeros?
+totalVar = subTotalCalcOverall + percentageVar
+io.write("Total: $", string.format("%.2f", totalVar), "\n")
