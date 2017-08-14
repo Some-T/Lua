@@ -2,7 +2,7 @@
 
 ## Pi:
 
-#Algorithm used to calculate along with iterations:
+**Algorithm used to calculate along with iterations:**
 
 
 
