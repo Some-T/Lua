@@ -8,15 +8,17 @@ Chudnovsky algorithm
 
 
 ```
-1 + 1 = 2 (placeholder)
+1 + 1 = 2 (placeholder for the above mentioned algorithm written more in a style of computer code / pure text rather than symbols)
 ```
 
-**Uses the following libraries:**
+**Uses the following modules:**
 
-* My own created arbitrary-precision library
-* My own created Decimal fixed point and floating point arithmetic library 
+* My own created Arbitrary-precision library
+* My own created Decimal fixed point / floating point arithmetic library 
 
 
+
+**Math Research:
 
 
 
