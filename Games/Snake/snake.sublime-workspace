@@ -119,7 +119,7 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 486,
+				"buffer_size": 202,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -628,15 +628,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 202,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								109,
-								109
+								202,
+								202
 							]
 						],
 						"settings":
@@ -665,8 +665,8 @@
 						"selection":
 						[
 							[
-								2,
-								2
+								0,
+								135
 							]
 						],
 						"settings":
