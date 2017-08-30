@@ -25,8 +25,8 @@ Does not seem to run properly if the game directory has spaces in it, whether th
 ### Useful links:
 
 
-https://love2d.org/wiki/Config_Files
-https://love2d.org/wiki/Tutorial:Physics
+- https://love2d.org/wiki/Config_Files
+- https://love2d.org/wiki/Tutorial:Physics
 
 
 ### Preview / Screenshot:
