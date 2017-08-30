@@ -5,7 +5,7 @@
 
 ### File: Debug Mode Love2D.sublime-build
 
-Tested on Sublime Text 3 in Windows 10 only with `love2d directory` set via environment variables (although you can just replace this, the world `love` specifically on line 3 in the build system with the full path)
+Tested on Sublime Text 3 in Windows 10 only with `love2d directory` set via environment variables (although you can just replace this, the word `love` specifically on line 3 in the build system with the full path)
 
 
 ### File: conf.lua
