@@ -4,7 +4,7 @@
 
 ### What it does:
 
-This Sublime Text 3build system is to allow you to easily launch .lua files scripted towards Love2D framework from sublime text 3 in Windows along with the Windows Command prompt.
+This Sublime Text 3 build system is to allow you to easily launch .lua files scripted towards Love2D framework from sublime text 3 in Windows along with the Windows Command prompt.
 
 
 ### File: Debug Mode Love2D.sublime-build
