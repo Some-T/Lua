@@ -1,12 +1,8 @@
-io.stdout:setvbuf("no")
-
 -- Based off of the tutorial located at: https://simplegametutorials.github.io/snake/
 -- Please contact jamie.cropley@gmail.com for any matters relating to this game.
 
-io.write("testing")
-
-
-require = "/conf.lua"
+io.write("testing \n")
+io.write(5+5, "\n")
 
 function love.draw()
     local gridXCount = 20

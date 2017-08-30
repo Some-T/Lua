@@ -1,0 +1,772 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timeInSeconds"
+			],
+			[
+				"totA",
+				"totalVar"
+			],
+			[
+				"sub",
+				"subTotalCalcOverall"
+			],
+			[
+				"qua",
+				"quantityItemThree"
+			],
+			[
+				"price",
+				"priceItemThree"
+			],
+			[
+				"qu",
+				"quantityItemTwo"
+			],
+			[
+				"gall",
+				"gallonCalc"
+			],
+			[
+				"squa",
+				"squareFeetRoom"
+			],
+			[
+				"total",
+				"totalSlices"
+			],
+			[
+				"pizzas",
+				"pizzasAmount"
+			],
+			[
+				"people",
+				"peopleAmount"
+			],
+			[
+				"num",
+				"numOfWeeks"
+			],
+			[
+				"over",
+				"overallAmountPerWeek"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"submit",
+				"SubmitButton"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"number",
+				"numberOfWeeks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 486,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conf.lua",
+			"settings":
+			{
+				"buffer_size": 135,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Debug Mode Love2D.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/Debug Mode Love2D.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Debug Mode Love2D.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/test.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/test2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/test2.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "command",
+		"selected_items":
+		[
+			[
+				"command",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake"
+	],
+	"file_history":
+	[
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/conf.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/main.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/LICENSE",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-workspace",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/.gitignore",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/README.md",
+		"/C/Users/Jamie/Desktop/LuaLove.sublime-build",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-build",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-project",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex11.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex10.lua",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/test2.sublime-build",
+		"/C/Users/Jamie/Downloads/Test/conf.lua",
+		"/C/Users/Jamie/Downloads/Test/main.lua",
+		"/C/Users/Jamie/Downloads/Test.love",
+		"/C/Users/Jamie/Desktop/test.cpp",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default (Windows).sublime-keymap",
+		"/C/Users/Jamie/Documents/GitHub/Lua/randomnumber.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/README.md",
+		"/C/Users/Jamie/Documents/GitHub/Lua/randomnumber.lua.c",
+		"/C/Users/Jamie/Downloads/srlua/glue.c",
+		"/C/Users/Jamie/Downloads/srlua/srlua.c",
+		"/C/Users/Jamie/Downloads/srlua/Makefile",
+		"/C/Users/Jamie/Desktop/main.lua",
+		"/C/Users/Jamie/Desktop/test.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/.gitignore",
+		"/C/Users/Jamie/Documents/GitHub/Lua/HitBall/main.lua",
+		"/C/Users/Jamie/Downloads/physics_for_game_developers_2e-master/physics_for_game_developers_2e-master/README.md",
+		"/C/Program Files (x86)/LuaRocks/config-5.3.lua",
+		"/C/Users/Jamie/Desktop/HitBall/main.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex1.lua",
+		"/C/Users/Jamie/Desktop/HitBall/icon.png",
+		"/C/lua/bitness.lua",
+		"/C/lua/luacall.lua",
+		"/C/Users/Jamie/Desktop/luacall.lua",
+		"/C/lua/systree/share/lua/5.3/bitness.lua",
+		"/C/Users/Jamie/Desktop/49c9eaac-9f33-4cce-a9b9-7655694c6463.jpg",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Pi/pi.lua",
+		"/C/Users/Jamie/Downloads/luarocks-2.4.2-win32/README.md",
+		"/C/Users/Jamie/Downloads/luarocks-2.4.2-win32/install.bat",
+		"/C/Users/Jamie/Downloads/luarocks-2.4.2-win32/config.ld",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/Terminality.sublime-settings",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
+		"/C/Users/Jamie/Downloads/genome_Jamie_Cropley_v4_Full_20170701091155/genome_Jamie_Cropley_v4_Full_20170701091155.txt",
+		"/C/Users/Jamie/Desktop/temp notes from emails.txt",
+		"/C/Users/Jamie/Desktop/rawunicodeemoticon.txt",
+		"/E/public_html/imat3451/index.php",
+		"/C/Users/Jamie/Desktop/index.php",
+		"/C/Users/Jamie/PhpstormProjects/student.money/index.php",
+		"/C/Users/Jamie/Downloads/Emoji-Everywhere-master/Emoji-Everywhere-master/twemoji_awesome.css",
+		"/C/Users/Jamie/PhpstormProjects/emojitest.zip",
+		"/C/xampp/htdocs/emojitest/index.php",
+		"/C/Users/Jamie/Documents/ClownfishVoiceChanger.ini",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+		"/C/Users/Jamie/Downloads/winapi-1.4.2/winapi-1.4.2/build-gcc.bat",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/Code/Current/Server/Server.ino",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/Code/Current/Client/Client.ino",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Timer/timer.lua",
+		"/C/Users/Jamie/Downloads/alarm/Makefile",
+		"/C/Users/Jamie/Desktop/pi.lua",
+		"/C/Users/Jamie/Downloads/Client.ino",
+		"/C/Users/Jamie/Desktop/test.c",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/Code/Current/Client/Client-DESKTOP-S7H9OFR.ino",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex9.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex8.lua",
+		"/C/luarocks-2.4.2-win32/install.bat",
+		"/C/Users/Jamie/Downloads/luarocks-2.4.2-win32/luarocks-2.4.2-win32/README.md",
+		"/C/Users/Jamie/Desktop/test2.cpp",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork1/StuffForViva-12.01.2017/code-P15188432.ino",
+		"/C/Users/Jamie/Downloads/luarocks-2.4.2-win32/luarocks-2.4.2-win32/install.bat",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Neural Network/.gitignore",
+		"/C/Users/Jamie/Desktop/Lua books/Lua Quick Reference/Sample Code/lqr-8e350e8cc33c/lqr-8e350e8cc33c/ex01.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/README.md",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex7.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/.gitattributes",
+		"/C/Users/Jamie/Desktop/Learning/Lua/Lua.gitignore",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/GeneralNotes.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.26.07.2017.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.21.07.2017.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.19.07.2017.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.18.07.2017.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.14.07.2017.txt",
+		"/E/81.19.218.226_30121/server.cfg",
+		"/E/81.19.218.226_30121/resources/welcome/client.lua",
+		"/E/81.19.218.226_30121/resources/welcome/__resource.lua",
+		"/E/81.19.218.226_30121/components.json",
+		"/C/Users/Jamie/Downloads/lua-5.3.4/README",
+		"/C/Users/Jamie/Downloads/pricedown/read-this.html",
+		"/E/81.19.218.226_30121/resources/vrp_basic_mission/server.lua",
+		"/E/81.19.218.226_30121/resources/fivem-map-skater/__resource.lua",
+		"/E/81.19.218.226_30121/resources/fivem-map-skater/map.lua",
+		"/C/Users/Jamie/Desktop/todo.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/outline.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/Current/Client.ino",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/Current/Server.ino",
+		"/C/Windows/Minidump/080117-12390-01.dmp",
+		"/C/Users/Jamie/Desktop/temp.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/27.07.2017/Server.ino",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/27.07.2017/Client.ino",
+		"/C/Users/Jamie/Desktop/todo25.07.2017.txt",
+		"/D/Users/Jamie/Documents/Unity Projects/Prison Cell Simulator/Assets/Prison Cell PBR/showcase_scene/LightmapSnapshot.asset",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/24.07.2017/Server.ino",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/24.07.2017/Client.ino",
+		"/C/Windows/Minidump/072517-11765-01.dmp",
+		"/C/ProgramData/ASUS/ASUSMINIBAR/ASUSMINIBAR.xml",
+		"/D/Users/Jamie/Documents/Unity Projects/Experiment 0/Experiment 0.sln",
+		"/C/Users/Jamie/Downloads/ROGGameFirst_IV_V1.6.3.0_20170719/AsusSetup.exe.manifest",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/arduinonotes.20.07.2017.txt",
+		"/C/Users/Jamie/Desktop/programming-guideforbhw.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/13.07.2017/Client/Client.ino",
+		"/C/Users/Jamie/Desktop/Client.ino",
+		"/C/Users/Jamie/Desktop/Server.ino",
+		"/C/Users/Jamie/Desktop/arduinonotes.14.07.2017.txt",
+		"/C/Users/Jamie/Desktop/arduinonotes14.07.2017.txt",
+		"/C/Users/Jamie/Desktop/arduinonotes4.07.2017.txt",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/13.07.2017/Server/Server.ino",
+		"/C/Users/Jamie/Downloads/code-P15188432.ino",
+		"/C/Users/Jamie/Desktop/temp.png",
+		"/C/Program Files (x86)/Common Files/Macrovision Shared/FlexNet Publisher/fnp_registrations.xml",
+		"/C/Users/Jamie/Desktop/Learning/C# Learning/Exercises For Programmers/Exercises/ex1/ex1/Program.cs",
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/IMAT2605 - Object Oriented Design and Development with C++/CourseWork2/imat2605CW2FINALVERSION/GameFiles/Game/Game/src/main.cpp",
+		"/C/Users/Jamie/Desktop/student.money initial backup - 01.07.2017/index.php",
+		"/C/Users/Jamie/PhpstormProjects/ExercisesForProgrammers/ex/ex1.php",
+		"/C/Users/Jamie/PhpstormProjects/ExercisesForProgrammers/ex/ex2.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"config",
+			"conf",
+			"rev3",
+			"255",
+			"block",
+			"edgeShape",
+			"new",
+			"http",
+			"320",
+			"())\n",
+			"Jamie",
+			"JAMIE",
+			"plod",
+			"col",
+			"rs2271683",
+			"rs1800255",
+			"rs1801184",
+			"ii",
+			"dd",
+			"1F646 🙆 ",
+			"lua",
+			"11",
+			"Serial",
+			"percentageVar",
+			"1",
+			"vw_tx_active()",
+			"350",
+			"lua",
+			"htm",
+			"array",
+			"Jamie",
+			"Sam Mills",
+			"humidity",
+			"ex14",
+			".",
+			"-",
+			"h1",
+			"/\n",
+			"https",
+			".",
+			";\n",
+			"wta",
+			"\n",
+			")\" ",
+			"\"\n",
+			"onewire",
+			"\n- Send you CV to Markus Demirci",
+			"payload",
+			"write payload",
+			"port",
+			"}",
+			"dht",
+			"\n ",
+			"mqtt",
+			"Mention",
+			"programming",
+			"window.draw",
+			"font",
+			"submit",
+			"collision",
+			"intrect",
+			"40",
+			"sound",
+			"sprite",
+			"balance",
+			"£",
+			"$",
+			"ch",
+			"chicken",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Me:",
+			"Friend:",
+			"-",
+			"£"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "conf.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 338.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "snake.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
