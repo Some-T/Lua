@@ -119,6 +119,7 @@
 			"file": "main.lua",
 			"settings":
 			{
+				"buffer_size": 206,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -381,8 +382,8 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/conf.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/main.lua",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/conf.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/LICENSE",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-workspace",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/.gitignore",
@@ -627,12 +628,15 @@
 					"semi_transient": false,
 					"settings":
 					{
+						"buffer_size": 206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+								206,
+								206
 							]
 						],
 						"settings":
