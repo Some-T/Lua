@@ -1,4 +1,6 @@
-:bug: # Debug Mode Love2D Sublime Text 3 Build Sytem :bug:
+:bug: 
+
+# Debug Mode Love2D Sublime Text 3 Build Sytem
 
 ## Information:
 
