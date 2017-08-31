@@ -119,7 +119,6 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 202,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -628,22 +627,17 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 202,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								202,
-								202
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -764,7 +758,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
