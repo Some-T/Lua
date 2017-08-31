@@ -26,9 +26,9 @@ Similar to conf.lua see above, used code https://love2d.org/wiki/Tutorial:Physic
 
 ### Known issues:
 
-- ~~Issue number 1: Does not seem to run properly if the game directory has spaces in it, whether that is a sublime text 3 build system issue or a love2d issue I am not sure at this stage but please let me know if you have figured out a way to fix that / contribute a fix if you know of one.~~ FIXED
+- ~~Issue number 1: Does not seem to run properly if the game directory has spaces in it, whether that is a sublime text 3 build system issue or a love2d issue I am not sure at this stage but please let me know if you have figured out a way to fix that / contribute a fix if you know of one.~~ **FIXED**
 
-- ~~Issue number 2: Not so much an issue but the way I have designed this, only works if you create a new sublime text 3 project file in this directory on your own computer. To do this, after downloading this directory go to `Project` in the Sublime Text 3 Menu at the top of your screen and select `Save Project As...` then once that is done go into the same menu again and add this directory by selecting the option `Add Folder to Project...`~~
+- ~~Issue number 2: Not so much an issue but the way I have designed this, only works if you create a new sublime text 3 project file in this directory on your own computer. To do this, after downloading this directory go to `Project` in the Sublime Text 3 Menu at the top of your screen and select `Save Project As...` then once that is done go into the same menu again and add this directory by selecting the option `Add Folder to Project...`~~ **FIXED**
 
 - Issue number 3: Does not output debug to the sublime text console, however if you set `"shell": false` (currently set as this) rather than `true` it outputs to command prompt where at least you can copy and paste the debugging information.
 
