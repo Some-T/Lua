@@ -116,20 +116,18 @@
 	"buffers":
 	[
 		{
-			"file": "main.lua",
+			"file": "ex10.lua",
 			"settings":
 			{
-				"buffer_size": 202,
-				"encoding": "UTF-8",
+				"buffer_size": 918,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "conf.lua",
+			"file": "ex11.lua",
 			"settings":
 			{
-				"buffer_size": 58,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -378,7 +376,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake"
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises"
 	],
 	"file_history":
 	[
@@ -619,54 +617,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "main.lua",
+					"file": "ex10.lua",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 202,
+						"buffer_size": 918,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								202,
-								202
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "conf.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 58,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
+								0,
+								0
 							]
 						],
 						"settings":
@@ -678,6 +646,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex11.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -723,7 +719,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "snake.sublime-project",
+	"project": "efp.sublime-project",
 	"replace":
 	{
 		"height": 64.0
