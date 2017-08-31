@@ -1,4 +1,4 @@
-:bug: :computer: :smile:
+:computer: :bug:  :smile:
 
 # Debug Mode Love2D Sublime Text 3 Build Sytem
 
