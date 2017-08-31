@@ -1,6 +1,6 @@
 {
     "selector": "source.lua",
-    "shell_cmd": "start cmd /c \"love ${project_path} & pause\"",
-    "shell": true,
-    "file_regex": "^Error: (?:[^:]+: )?([^: ]+?):(\\d+):() ([^:]*)$"
+    "shell_cmd": "start cmd /c love \"${project_path}\"",
+    "shell": false,
+    "file_regex": "^(?:Error: |\\t)([^: ]+?):(\\d+):() ([^:]*)$"
 }
