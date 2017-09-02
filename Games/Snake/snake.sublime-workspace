@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"snake",
+				"snakeSegments"
+			],
+			[
 				"time",
 				"timeInSeconds"
 			],
@@ -119,7 +123,7 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 205,
+				"buffer_size": 2049,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -369,21 +373,25 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 81.0,
-		"last_filter": "command",
+		"height": 392.0,
+		"last_filter": "pack",
 		"selected_items":
 		[
-			[
-				"command",
-				"Terminality: Browse Commands..."
-			],
 			[
 				"pack",
 				"Package Control: List Packages"
 			],
 			[
 				"packa",
-				"Package Control: Upgrade Package"
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"command",
+				"Terminality: Browse Commands..."
 			],
 			[
 				"",
@@ -422,13 +430,15 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/LuaFormat/Default.sublime-settings",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/LuaFormat.sublime-settings",
+		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/README.md",
 		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/TESTING.sublime-build",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/main.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/conf.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/LICENSE",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-workspace",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/.gitignore",
-		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/README.md",
 		"/C/Users/Jamie/Desktop/LuaLove.sublime-build",
 		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-build",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-project",
@@ -547,9 +557,7 @@
 		"/C/Users/Jamie/Desktop/temp.png",
 		"/C/Program Files (x86)/Common Files/Macrovision Shared/FlexNet Publisher/fnp_registrations.xml",
 		"/C/Users/Jamie/Desktop/Learning/C# Learning/Exercises For Programmers/Exercises/ex1/ex1/Program.cs",
-		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/IMAT2605 - Object Oriented Design and Development with C++/CourseWork2/imat2605CW2FINALVERSION/GameFiles/Game/Game/src/main.cpp",
-		"/C/Users/Jamie/Desktop/student.money initial backup - 01.07.2017/index.php",
-		"/C/Users/Jamie/PhpstormProjects/ExercisesForProgrammers/ex/ex1.php"
+		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/IMAT2605 - Object Oriented Design and Development with C++/CourseWork2/imat2605CW2FINALVERSION/GameFiles/Game/Game/src/main.cpp"
 	],
 	"find":
 	{
@@ -567,6 +575,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\")\n",
+			")\n",
 			"function",
 			"config",
 			"conf",
@@ -668,25 +678,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 205,
+						"buffer_size": 2049,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								205,
-								205
+								331,
+								331
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 130.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -705,8 +715,8 @@
 						"selection":
 						[
 							[
-								38,
-								38
+								50,
+								54
 							]
 						],
 						"settings":
@@ -756,7 +766,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 338.0
+		"height": 149.0
 	},
 	"output.find_results":
 	{
