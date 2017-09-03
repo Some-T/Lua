@@ -123,7 +123,7 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 2049,
+				"buffer_size": 2047,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -138,7 +138,7 @@
 			}
 		}
 	],
-	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system": "Packages/User/Debug Mode Love2D.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -249,8 +249,8 @@
 				]
 			],
 			[
-				"Packages/Lua Love/LuaLove.sublime-build",
-				"Love2D"
+				"Packages/User/Debug Mode Love2D.sublime-build",
+				""
 			]
 		],
 		[
@@ -678,15 +678,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2049,
+						"buffer_size": 2047,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								331,
-								331
+								1807,
+								1807
 							]
 						],
 						"settings":
@@ -696,7 +696,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 130.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
