@@ -89,4 +89,3 @@ function love.update(dt)
         io.write("Tick \n")
     end
 end
-
