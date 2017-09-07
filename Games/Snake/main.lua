@@ -3,7 +3,6 @@
 
 
 
-
 -- The below function sets the window, game settings, logic, icon etc...:
 
 function love.load()
