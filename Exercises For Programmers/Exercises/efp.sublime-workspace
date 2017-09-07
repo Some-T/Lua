@@ -122,17 +122,9 @@
 				"buffer_size": 918,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "ex11.lua",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
 		}
 	],
-	"build_system": "Packages/User/Debug Mode Love2D.sublime-build",
+	"build_system": "Packages/Lua/Lua.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -243,7 +235,7 @@
 				]
 			],
 			[
-				"Packages/User/Debug Mode Love2D.sublime-build",
+				"Packages/Lua/Lua.sublime-build",
 				""
 			]
 		],
@@ -380,6 +372,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex11.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/conf.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/main.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/LICENSE",
@@ -389,7 +382,6 @@
 		"/C/Users/Jamie/Desktop/LuaLove.sublime-build",
 		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-build",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake/snake.sublime-project",
-		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex11.lua",
 		"/C/Users/Jamie/Documents/GitHub/Lua/Exercises For Programmers/Exercises/ex10.lua",
 		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/test2.sublime-build",
 		"/C/Users/Jamie/Downloads/Test/conf.lua",
@@ -617,7 +609,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -633,35 +625,7 @@
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "ex11.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
+								63,
 								0
 							]
 						],
