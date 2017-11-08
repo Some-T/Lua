@@ -123,7 +123,7 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 2047,
+				"buffer_size": 2046,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -678,15 +678,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2047,
+						"buffer_size": 2046,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1814,
-								1814
+								993,
+								993
 							]
 						],
 						"settings":
@@ -696,7 +696,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1200.0,
+						"translation.y": 552.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

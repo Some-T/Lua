@@ -32,7 +32,6 @@ end
 
 
 
-
 -- The below function draws stuff for the game:
 
 function love.draw()
