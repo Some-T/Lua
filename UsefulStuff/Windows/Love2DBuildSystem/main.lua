@@ -4,6 +4,8 @@
 
 io.write("Console output test \n")
 
+-- Taken from:  https://love2d.org/wiki/Tutorial:Physics
+
 
 function love.load()
   love.physics.setMeter(64) --the height of a meter our worlds will be 64px
@@ -36,7 +38,7 @@ function love.load()
   objects.block2.fixture = love.physics.newFixture(objects.block2.body, objects.block2.shape, 2)
  
   --initial graphics setup
-  love.graphics.setBackgroundColor(104, 136, 248) --set the background color to a nice blue
+  love.graphics.setBackgroundColor(0.41, 0.53, 0.97) --set the background color to a nice blue
   love.window.setMode(650, 650) --set the window dimensions to 650 by 650
 end
  
@@ -56,13 +58,13 @@ function love.update(dt)
 end
  
 function love.draw()
-  love.graphics.setColor(72, 160, 14) -- set the drawing color to green for the ground
+  love.graphics.setColor(0.28, 0.63, 0.05) -- set the drawing color to green for the ground
   love.graphics.polygon("fill", objects.ground.body:getWorldPoints(objects.ground.shape:getPoints())) -- draw a "filled in" polygon using the ground's coordinates
  
-  love.graphics.setColor(193, 47, 14) --set the drawing color to red for the ball
+  love.graphics.setColor(0.76, 0.18, 0.05) --set the drawing color to red for the ball
   love.graphics.circle("fill", objects.ball.body:getX(), objects.ball.body:getY(), objects.ball.shape:getRadius())
  
-  love.graphics.setColor(50, 50, 50) -- set the drawing color to grey for the blocks
+  love.graphics.setColor(0.20, 0.20, 0.20) -- set the drawing color to grey for the blocks
   love.graphics.polygon("fill", objects.block1.body:getWorldPoints(objects.block1.shape:getPoints()))
   love.graphics.polygon("fill", objects.block2.body:getWorldPoints(objects.block2.shape:getPoints()))
 end
