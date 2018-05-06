@@ -35,6 +35,11 @@ Similar to conf.lua see above, used code https://love2d.org/wiki/Tutorial:Physic
 
 ### Updates:
 
+#### 06.05.2018:
+
+- Updated example file and its source, to recent colour index changes in love2d.
+
+
 #### 31.08.2017:
 
 - Removed `pause` to make running the game easier, it now closes whether you just close cmd.exe using the x in the corner / close button or the love2d game itself
