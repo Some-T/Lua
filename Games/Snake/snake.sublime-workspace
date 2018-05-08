@@ -138,7 +138,7 @@
 			}
 		}
 	],
-	"build_system": "Packages/User/Debug Mode Love2D.sublime-build",
+	"build_system": "Packages/User/LuaLove Debug Mode.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -320,6 +320,42 @@
 					"ldoc: Project"
 				],
 				[
+					"Packages/User/LuaLove Debug Mode.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/LuaLove Debug Mode.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
 					"Packages/User/test.sublime-build",
 					""
 				]
@@ -426,7 +462,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jamie/Documents/GitHub/Lua/Games/Snake"
+		"/D/MainStuffWorkingOn/Lua/Games/Snake"
 	],
 	"file_history":
 	[
@@ -685,18 +721,28 @@
 						"selection":
 						[
 							[
-								993,
-								993
+								1066,
+								1066
 							]
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 154,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"markdonw_live_preview_last_run": 1525635498.46,
 							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 552.0,
+						"translation.y": 588.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -721,6 +767,15 @@
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"markdonw_live_preview_last_run": 1525635498.46,
 							"syntax": "Packages/Lua/Lua.sublime-syntax"
 						},
 						"translation.x": 0.0,
