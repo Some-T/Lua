@@ -597,7 +597,7 @@
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -611,6 +611,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font",
 			"\")\n",
 			")\n",
 			"function",
@@ -705,7 +706,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -721,8 +722,8 @@
 						"selection":
 						[
 							[
-								1066,
-								1066
+								699,
+								701
 							]
 						],
 						"settings":
@@ -742,10 +743,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 588.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -761,15 +762,16 @@
 						"selection":
 						[
 							[
-								50,
-								54
+								58,
+								58
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": -1,
+								"changes": 0,
+								"count": 3,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -782,7 +784,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
