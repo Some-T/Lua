@@ -1,5 +1,15 @@
 -- Many errors to fix on this.
 
+-- function maxn(tbl)
+--    local n = 0
+--    for k, _ in pairs(tbl) do 
+--        if type(k) == "number" and math.floor(k) == k and k > 0 and k > n then 
+--            n = k 
+--        end 
+--    end 
+--    return n
+-- end 
+
 -- Gets the size of the array (by using the max index)
 function size(values)
     return table.maxn(values) + 1
