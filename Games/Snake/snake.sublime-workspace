@@ -119,24 +119,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "main.lua",
-			"settings":
-			{
-				"buffer_size": 2046,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "conf.lua",
-			"settings":
-			{
-				"buffer_size": 58,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/User/LuaLove Debug Mode.sublime-build",
 	"build_system_choices":
@@ -466,6 +448,8 @@
 	],
 	"file_history":
 	[
+		"/D/MainStuffWorkingOn/Lua/Games/Snake/conf.lua",
+		"/D/MainStuffWorkingOn/Lua/Games/Snake/main.lua",
 		"/C/Users/Jamie/Desktop/Server.ino",
 		"/C/Users/Jamie/Desktop/Client.ino",
 		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/LuaFormat/Default.sublime-settings",
@@ -591,9 +575,7 @@
 		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/ENGD2003 - Embedded Systems and Drives/CourseWork2/CodeBackups/13.07.2017/Server/Server.ino",
 		"/C/Users/Jamie/Downloads/code-P15188432.ino",
 		"/C/Users/Jamie/Desktop/temp.png",
-		"/C/Program Files (x86)/Common Files/Macrovision Shared/FlexNet Publisher/fnp_registrations.xml",
-		"/C/Users/Jamie/Desktop/Learning/C# Learning/Exercises For Programmers/Exercises/ex1/ex1/Program.cs",
-		"/D/Users/Jamie/OneDrive - De Montfort University 1/DMU/Year 2/IMAT2605 - Object Oriented Design and Development with C++/CourseWork2/imat2605CW2FINALVERSION/GameFiles/Game/Game/src/main.cpp"
+		"/C/Program Files (x86)/Common Files/Macrovision Shared/FlexNet Publisher/fnp_registrations.xml"
 	],
 	"find":
 	{
@@ -706,87 +688,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "main.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2046,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								699,
-								701
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 154,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"markdonw_live_preview_last_run": 1525635498.46,
-							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "conf.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 58,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								58,
-								58
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 3,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"markdonw_live_preview_last_run": 1525635498.46,
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
