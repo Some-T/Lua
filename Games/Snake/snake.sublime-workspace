@@ -1,1 +1,540 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"border-",
+				"border-spacing\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"genre",
+				"genreID"
+			],
+			[
+				"film",
+				"filmNameDB"
+			],
+			[
+				"add",
+				"addToTable"
+			],
+			[
+				"click",
+				"clickVar"
+			],
+			[
+				"snake",
+				"snakeSegments"
+			],
+			[
+				"time",
+				"timeInSeconds"
+			],
+			[
+				"totA",
+				"totalVar"
+			],
+			[
+				"sub",
+				"subTotalCalcOverall"
+			],
+			[
+				"qua",
+				"quantityItemThree"
+			],
+			[
+				"price",
+				"priceItemThree"
+			],
+			[
+				"qu",
+				"quantityItemTwo"
+			],
+			[
+				"gall",
+				"gallonCalc"
+			],
+			[
+				"squa",
+				"squareFeetRoom"
+			],
+			[
+				"total",
+				"totalSlices"
+			],
+			[
+				"pizzas",
+				"pizzasAmount"
+			],
+			[
+				"people",
+				"peopleAmount"
+			],
+			[
+				"num",
+				"numOfWeeks"
+			],
+			[
+				"over",
+				"overallAmountPerWeek"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"submit",
+				"SubmitButton"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"number",
+				"numberOfWeeks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1937,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"paCK",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"diff",
+				"Clipboard Diff"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"command",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/MainStuffWorkingOn/Lua/Games/Snake"
+	],
+	"file_history":
+	[
+		"/D/MainStuffWorkingOn/twistedplace/.gitignore",
+		"/D/MainStuffWorkingOn/twistedplace/Contents.md",
+		"/D/MainStuffWorkingOn/twistedplace/About.md",
+		"/D/MainStuffWorkingOn/twistedplace/held.md",
+		"/D/MainStuffWorkingOn/twistedplace/bar.md",
+		"/D/MainStuffWorkingOn/twistedplace/blue.md",
+		"/D/MainStuffWorkingOn/twistedplace/diversion.md",
+		"/D/MainStuffWorkingOn/twistedplace/breathe.md",
+		"/D/MainStuffWorkingOn/twistedplace/face.md",
+		"/D/MainStuffWorkingOn/twistedplace/hot.md",
+		"/D/MainStuffWorkingOn/twistedplace/tree.md",
+		"/D/MainStuffWorkingOn/twistedplace/tube.md",
+		"/D/MainStuffWorkingOn/twistedplace/twistedplace.sublime-workspace",
+		"/C/Users/Jamie/Desktop/test.md",
+		"/D/MainStuffWorkingOn/CPP/CPP Programming in easy steps/arrays.cpp",
+		"/D/MainStuffWorkingOn/CPP/CPP Programming in easy steps/vector.cpp",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Jamie/Desktop/temp.txt",
+		"/D/MainStuffWorkingOn/Notes-on-cpp-2d-game-engines/README.md",
+		"/D/MainStuffWorkingOn/Notes-on-cpp-2d-gamengines/README.md",
+		"/C/Users/Jamie/Desktop/notesoncpp2dgamengines.md",
+		"/C/Users/Jamie/Desktop/package/servers/204951876960124928/guild.json",
+		"/C/Users/Jamie/Desktop/package/servers/324132423636090880/guild.json",
+		"/D/MainStuffWorkingOn/Python/Speech-To-Notes/Speech-To-Notes.py",
+		"/D/MainStuffWorkingOn/Python/Speech-To-Notes/README.md",
+		"/C/Users/Jamie/Desktop/Speech-To -Notes.py",
+		"/C/Users/Jamie/Desktop/test.py",
+		"/D/MainStuffWorkingOn/CPP/CPP Programming in easy steps/hello.cpp",
+		"/C/Windows/INF/WmiApRpl/WmiApRpl.ini",
+		"/C/Windows/INF/WmiApRpl/WmiApRpl.h",
+		"/C/Windows/INF/oem26.inf",
+		"/C/Users/Jamie/Downloads/tinymudserver/player.cpp",
+		"/D/MainStuffWorkingOn/Some-T.github.io/contact.html",
+		"/D/MainStuffWorkingOn/Some-T.github.io/index.html",
+		"/D/MainStuffWorkingOn/jamie.zone/contact.html",
+		"/D/MainStuffWorkingOn/jamie.zone/index.html",
+		"/D/UniversityProjects/Reapplication for year 3/Email/email.md",
+		"/D/MainStuffWorkingOn/Lua/geneticalgorithm.lua",
+		"/D/MainStuffWorkingOn/Lua/UsefulStuff/Mac/ziptolovefile.sh",
+		"/C/Users/Jamie/Desktop/test.php",
+		"/C/Users/Jamie/Desktop/main.cpp",
+		"/D/UniversityProjects/IMAT3603 Data Mining/dataminingrevision/.gitignore",
+		"/D/UniversityProjects/IMAT3451ComputingProject/litreviewmd/.gitignore",
+		"/D/MainStuffWorkingOn/Lua/Games/Snake/.gitignore",
+		"/D/MainStuffWorkingOn/Lua/.gitignore",
+		"/D/MainStuffWorkingOn/Lua/Games/TemplateForNewGame/.gitignore",
+		"/D/MainStuffWorkingOn/Lua/randomnumber.lua",
+		"/C/Users/Jamie/Desktop/ga.lua",
+		"/D/MainStuffWorkingOn/twistedplace/images/cover.png",
+		"/C/Users/Jamie/Desktop/ORIGINALDataMiningRevision/Contents.md",
+		"/D/MainStuffWorkingOn/dataminingrevision/Contents.md",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/D/MainStuffWorkingOn/twistedplace/test.md",
+		"/D/MainStuffWorkingOn/twistedplace/test",
+		"/D/MainStuffWorkingOn/twistedplace/Contents.txt",
+		"/D/MainStuffWorkingOn/twistedplace/About.txt",
+		"/D/MainStuffWorkingOn/twistedplace/bar.txt",
+		"/D/MainStuffWorkingOn/twistedplace/blue.txt",
+		"/D/MainStuffWorkingOn/twistedplace/diversion.txt",
+		"/D/MainStuffWorkingOn/twistedplace/breathe.txt",
+		"/D/MainStuffWorkingOn/twistedplace/images/.gitkeep",
+		"/D/MainStuffWorkingOn/twistedplace/tube.txt",
+		"/D/MainStuffWorkingOn/twistedplace/tree.txt",
+		"/D/MainStuffWorkingOn/twistedplace/hot.txt",
+		"/D/MainStuffWorkingOn/twistedplace/face.txt",
+		"/C/Users/Jamie/Desktop/test.txt",
+		"/D/My Game Projects/PythonPanda3D/HelloWorld/HelloWorld.py",
+		"/C/Users/Jamie/Desktop/TwistedPlace/bar.txt",
+		"/D/MainStuffWorkingOn/TwistedPlace/README.md",
+		"/D/MainStuffWorkingOn/TwistedPlace/bar.md",
+		"/C/Users/Jamie/Desktop/avoid.h",
+		"/C/Users/Jamie/Desktop/avoid.cpp",
+		"/C/Users/Jamie/Desktop/test.html",
+		"/C/Users/Jamie/Desktop/test.phtml",
+		"/E/imgboard.php",
+		"/E/inc/html.php",
+		"/E/index.html",
+		"/D/MainStuffWorkingOn/PureBasic/PureBasicCode/ExForProgrammers/ex1.pb",
+		"/C/Program Files/PureBasic/Examples/Sources/Console.pb",
+		"/D/MainStuffWorkingOn/PureBasic/PureBasicCode/README.md",
+		"/D/MainStuffWorkingOn/PureBasic/PureBasicCode/LICENSE",
+		"/D/MainStuffWorkingOn/PureBasic/PureBasicCode/.gitignore",
+		"/F/inc/html.php",
+		"/F/index.html",
+		"/F/imgboard.php",
+		"/F/settings.php",
+		"/E/settings.php",
+		"/D/MainStuffWorkingOn/zchan.net-backupoflive-17.07.2018/index.html",
+		"/E/inc/functions.php",
+		"/E/inc/defines.php",
+		"/C/Users/Jamie/Desktop/BACKUPimgboard.php",
+		"/E/favicon.ico",
+		"/E/test.php",
+		"/D/MainStuffWorkingOn/aglowo.com/resources/views/welcome.blade.php",
+		"/D/MainStuffWorkingOn/jamie.zone/development.html",
+		"/E/html/test.php",
+		"/E/html/settings.php",
+		"/E/html/imgboard.php",
+		"/E/html/inc/database_mysql.php",
+		"/E/etc/php/7.0/fpm/php.ini",
+		"/D/MainStuffWorkingOn/zchan.net/index.php",
+		"/C/Users/Jamie/Desktop/info.php",
+		"/E/html/submit.php",
+		"/E/html/index.html",
+		"/D/MainStuffWorkingOn/zchan.net/settings.php",
+		"/E/html/.gitignore",
+		"/E/html/info.php",
+		"/D/MainStuffWorkingOn/zchan.net/php/settings.php",
+		"/D/MainStuffWorkingOn/aglowo.com/.gitignore",
+		"/D/MainStuffWorkingOn/zchan.net/settings.default.php",
+		"/D/MainStuffWorkingOn/zchan.net/.gitignore",
+		"/D/MainStuffWorkingOn/zchan.net-notesandmiscfiles/append.html",
+		"/C/Users/Jamie/Desktop/append.html",
+		"/D/Users/Jamie/OneDrive - De Montfort University/DMU/Year 3/IMAT3451 Computing Project/trainandwatchprotos/00 finalversion/index.html",
+		"/C/Users/Jamie/Desktop/main.css",
+		"/C/Users/Jamie/Desktop/borderexampletextboardnormalhtml.html",
+		"/C/Users/Jamie/Desktop/borderexampletextboardbootstrap.html",
+		"/C/Users/Jamie/Desktop/borderexampletextboard.html",
+		"/C/laragon/etc/nginx/sites-enabled/00-default.conf",
+		"/D/Users/Jamie/OneDrive - De Montfort University/DMU/Year 3/IMAT3451 Computing Project/trainandwatchprotos/train.html",
+		"/D/UniversityProjects/CTEC3110SecureWebDev/cw1app/.gitignore",
+		"/D/UniversityProjects/CTEC3110SecureWebDev/.gitignore",
+		"/D/UniversityProjects/IMAT3451ComputingProject/fresh.watch/.gitignore",
+		"/D/Users/Jamie/OneDrive - De Montfort University/DMU/Year 3/CTEC3110 Secure Web Application Development/lab1/test_slim2.php",
+		"/D/Users/Jamie/OneDrive - De Montfort University/DMU/Year 3/CTEC3110 Secure Web Application Development/lab1/test_slim.php",
+		"/C/laragon/www/cw1app/Slim/src/public/index.php",
+		"/E/p3t/apache/conf/extra/dmu-httpd-p3t.conf",
+		"/D/UniversityProjects/IMAT3404 Mobile Robotics/CW2/Notes/notes.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 155,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"markdonw_live_preview_last_run": 1543340443.87,
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "snake.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 369.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
